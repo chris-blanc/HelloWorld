@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="my_theme_color">#00FFFF</color>
+    <color name="orange">#FF6B35</color>
+    <color name="peach">#F7C59F</color>
+    <color name="blue">#004E89</color>
+    <color name="lapis">#1D3354</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
